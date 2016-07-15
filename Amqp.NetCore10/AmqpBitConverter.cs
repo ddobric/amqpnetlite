@@ -18,7 +18,7 @@
 namespace Amqp
 {
     using System;
-    using Amqp.Types;
+    using Amqp.Types;//
 
     /// <summary>
     /// Reads primitive values from a buffer or writes primitive values to a buffer in networking order.
